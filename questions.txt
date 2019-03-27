@@ -1,8 +1,0 @@
--1. Basic DSs
--2. Error Handling
-
-1. What golang especially has to offer?
-2. Package management?
-3. Unit testing framework?
-4. Parallelism?
-5. Asynch/Functional programming?
